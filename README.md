@@ -1,5 +1,4 @@
-# data
-数据 算法
+# data 数据 算法
 
 ## [LRU](https://baike.baidu.com/item/LRU)
 
